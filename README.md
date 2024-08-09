@@ -71,3 +71,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+Observación, existe un archivo dentro de la carpeta BD, que sería el sql a ejectura en pgAmin4 de la base de datos.
